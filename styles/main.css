@@ -80,6 +80,7 @@ a {
 #last-name {
     font-size: 42px;
     line-height: 1em;
+    text-align: center;
 }
 
 #profile-pic {
